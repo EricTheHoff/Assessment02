@@ -1,0 +1,35 @@
+body {
+    color: white;
+    font-family: sans-serif;
+}
+
+table, th, td {
+    border-color: white;
+    border-style: solid;
+    border-width: 1px
+}
+
+td, th {
+    padding: 5px
+}
+
+table {
+    margin-top: 50px
+}
+
+#charName {
+    margin-bottom: 15px
+}
+
+#jedi {
+    margin-right: 20px;
+    margin-bottom: 15px
+}
+
+#sith {
+    margin-bottom: 15px;
+}
+
+#color {
+    margin-bottom: 15px;
+}
